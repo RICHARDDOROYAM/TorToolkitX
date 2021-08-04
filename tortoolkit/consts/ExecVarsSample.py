@@ -38,7 +38,7 @@ except:
 
         # DB URI for access
         DATABASE_URL = "postgresql://postgres:rjAWPlQg1QFGKcVx41YV@containers-us-west-8.railway.app:6005/railway"
-        )
+        
 
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         # DATABASE_URL = "dbname=tortk user=postgres password=your-pass host=db port=5432"
